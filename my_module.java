@@ -9,5 +9,5 @@
 		return a+b;
 	}
 	int div(int a, int b){
+<<<<<<< HEAD
 		return a/b; //ÁÖ¼®
-	}
